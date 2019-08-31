@@ -1,5 +1,3 @@
-Práctica de Visualización - Marina Kurmanova
-
 Getting Started
 The dataset is from German IAB (Insitute for Employment and Research). 20 OECD destination countries and 195 countries of origin. The data is desaggregated by gender. The time period covered is 1980 to 2010 in 5-year intervals.
 The orignal dataset is in wide format: a sigle excel sheet with 20 tabs and 195 rows per tab, 12 columns each. The dataset has been reshaped to long format to fit Tableau dataset requirements by means of python code using pandas.
